@@ -62,16 +62,6 @@ function draw() {
   if(path.y > 400 ){
     path.y = height/2;
   }
-
-  if(path.y > 400 ){
-    path.y = height/2;
-  }
-
-  if(path.y > 400 ){
-    path.y = height/2;}
-
-  if(path.y > 400 ){
-    path.y = height/2;}
-  
+      
   drawSprites();
 }
